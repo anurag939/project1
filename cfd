@@ -1,1 +1,3 @@
 from docker
+
+the git was updated from inside the container
